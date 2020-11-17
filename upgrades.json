@@ -1,0 +1,164 @@
+{
+    "0.29": {
+        "nome": {
+            "pt-br": "",
+            "en-us": "",
+            "es": ""
+        },
+        "data": "10/11/2020",
+        "descricao": {
+            "pt-br": "",
+            "en-us": "",
+            "es": ""
+        },
+        "upgrades": {
+            "bugs": {
+                "#1": {
+                    "titulo": {
+                        "pt-br": "",
+                        "en-us": "",
+                        "es": ""
+                    },
+                    "descricao": {
+                        "pt-br": "",
+                        "en-us": "",
+                        "es": ""
+                    }
+                },
+                "#2": {
+                    "titulo": {
+                        "pt-br": "Recursos 2",
+                        "en-us": "",
+                        "es": ""
+                    },
+                    "descricao": {
+                        "pt-br": "",
+                        "en-us": "",
+                        "es": ""
+                    }
+                }
+            },
+            "novos recursos": {
+                "#1": {
+                    "titulo": {
+                        "pt-br": "",
+                        "en-us": "",
+                        "es": ""
+                    },
+                    "descricao": {
+                        "pt-br": "",
+                        "en-us": "",
+                        "es": ""
+                    }
+                }
+            },
+            "novos comandos": {
+                "#1": {
+                    "titulo": {
+                        "pt-br": "",
+                        "en-us": "",
+                        "es": ""
+                    },
+                    "descricao": {
+                        "pt-br": "",
+                        "en-us": "",
+                        "es": ""
+                    }
+                }
+            }
+        }
+    },
+    "0.3": {
+        "nome": {
+            "pt-br": "betalfa",
+            "en-us": "",
+            "es": ""
+        },
+        "data": "16/11/2020",
+        "descricao": {
+            "pt-br": "Vers\u00e3o de lan\u00e7amento",
+            "en-us": "very much",
+            "es": ""
+        },
+        "upgrades": {
+            "bugs": {
+                "#1": {
+                    "titulo": {
+                        "pt-br": "bug None",
+                        "en-us": "",
+                        "es": ""
+                    },
+                    "descricao": {
+                        "pt-br": "",
+                        "en-us": "",
+                        "es": ""
+                    }
+                },
+                "#2": {
+                    "titulo": {
+                        "pt-br": "asset",
+                        "en-us": "",
+                        "es": ""
+                    },
+                    "descricao": {
+                        "pt-br": "",
+                        "en-us": "",
+                        "es": ""
+                    }
+                }
+            },
+            "novos recursos": {
+                "#1": {
+                    "titulo": {
+                        "pt-br": "rec1",
+                        "en-us": "",
+                        "es": ""
+                    },
+                    "descricao": {
+                        "pt-br": "",
+                        "en-us": "",
+                        "es": ""
+                    }
+                },
+                "#2": {
+                    "titulo": {
+                        "pt-br": "rec2",
+                        "en-us": "",
+                        "es": ""
+                    },
+                    "descricao": {
+                        "pt-br": "",
+                        "en-us": "",
+                        "es": ""
+                    }
+                }
+            },
+            "novos comandos": {
+                "#1": {
+                    "titulo": {
+                        "pt-br": "Limpar tudo",
+                        "en-us": "",
+                        "es": ""
+                    },
+                    "descricao": {
+                        "pt-br": "",
+                        "en-us": "",
+                        "es": ""
+                    }
+                },
+                "#2": {
+                    "titulo": {
+                        "pt-br": "Limpar Screen",
+                        "en-us": "",
+                        "es": ""
+                    },
+                    "descricao": {
+                        "pt-br": "",
+                        "en-us": "",
+                        "es": ""
+                    }
+                }
+            }
+        }
+    }
+}
