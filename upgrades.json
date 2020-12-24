@@ -1,38 +1,26 @@
 {
    "0.27":{
-      "versoes_que_podem_atualizar":[
+      "versoes":[
          
       ],
       "nome":{
-         "pt-br":"",
-         "en-us":"",
-         "es":""
+         "pt-br":"dev",
+         "en-us":"dev",
+         "es":"dev"
       },
       "data":"24/12/2020",
       "descricao":{
-         "pt-br":"",
-         "en-us":"",
-         "es":""
+         "pt-br":"Versão de homologação da versão 0.3",
+         "en-us":"Approval version of version 0.3",
+         "es":"Versión de aprobación de la versión 0.3"
       },
       "upgrades":{
          "bugs":{
             "#1":{
                "titulo":{
-                  "pt-br":"",
-                  "en-us":"",
-                  "es":""
-               },
-               "descricao":{
-                  "pt-br":"",
-                  "en-us":"",
-                  "es":""
-               }
-            },
-            "#2":{
-               "titulo":{
-                  "pt-br":"Recursos 2",
-                  "en-us":"",
-                  "es":""
+                  "pt-br":"Correção do bug que trava a interface ao maximizar a Safira",
+                  "en-us":"Fixed bug that crashes the interface when maximizing Sapphire",
+                  "es":"Se corrigió un error que bloquea la interfaz al maximizar Sapphire"
                },
                "descricao":{
                   "pt-br":"",
@@ -44,9 +32,9 @@
          "novos recursos":{
             "#1":{
                "titulo":{
-                  "pt-br":"",
-                  "en-us":"",
-                  "es":""
+                  "pt-br":"Atualização automática sem o usuário precisar acessar o site para baixar o .zip",
+                  "en-us":"Automatic update without the user having to access the site to download the .zip",
+                  "es":"Actualización automática sin que el usuario tenga que acceder al sitio para descargar el .zip"
                },
                "descricao":{
                   "pt-br":"",
