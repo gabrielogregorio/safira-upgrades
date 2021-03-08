@@ -1,4 +1,66 @@
 {
+  
+   "0.37": {
+    "versoes": [],
+    "nome": {
+      "pt-br": "dev",
+      "en-us": "dev",
+      "es": "dev"
+    },
+    "data": "04/03/2021",
+    "descricao": {
+      "pt-br": "Versão beta 0.36",
+      "en-us": "",
+      "es": ""
+    },
+    "upgrades": {
+      "bugs": {
+        "#1": {
+          "titulo": {
+            "pt-br": "",
+            "en-us": "",
+            "es": ""
+          },
+          "descricao": {
+            "pt-br": "",
+            "en-us": "",
+            "es": ""
+          }
+        }
+      },
+      "novos recursos": {
+        "#1": {
+          "titulo": {
+            "pt-br": "",
+            "en-us": "",
+            "es": ""
+          },
+          "descricao": {
+            "pt-br": "",
+            "en-us": "",
+            "es": ""
+          }
+        }
+      },
+      "novos comandos": {
+        "#1": {
+          "titulo": {
+            "pt-br": "",
+            "en-us": "",
+            "es": ""
+          },
+          "descricao": {
+            "pt-br": "",
+            "en-us": "",
+            "es": ""
+          }
+        }
+      }
+    }
+  },
+
+
+  
   "0.36": {
     "versoes": [],
     "nome": {
